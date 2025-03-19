@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me:
-**Software Engineering Student<br><br>Amazon Intern**
+**Master's Student<br><br>Amazon Intern**
 <br><br>
 ## 💡 I Am Currently:
 **Working On Several University Projects<br><br>Looking For Hackatons<br><br>Looking For Opportunities For My Thesis**
