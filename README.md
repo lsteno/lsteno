@@ -1,7 +1,7 @@
-## 👨‍💻 
+👨‍💻 
 
-## 💡 I Am Currently:
-**Working On Several University Projects<br><br>Looking For Hackatons<br><br>Looking For Opportunities For My Thesis**
+pls hire me to do my master thesis at your lab/company
+
 <br><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzosteno) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lsteno) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lsteno) 
