@@ -1,6 +1,4 @@
-👨‍💻 
-
-pls hire me to do my master thesis at your lab/company
+👨‍💻 just a guy
 
 <br><br>
 ## 🌐 Socials:
